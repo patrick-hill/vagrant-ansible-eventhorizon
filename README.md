@@ -15,4 +15,3 @@ CentOS 7.1 Vagrant Boxes (Possibly 6.7)
 2. Make any needed changes to run.properties
 3. Run `./run.sh`
 4. Follow any Ansible **wait_for** tasks
-5. Login with admin/admin
